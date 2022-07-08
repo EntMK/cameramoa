@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">카메라모아</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">카메라모아</string>
+    <string name="nav_header_subtitle">entmk22@naver.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_camera_connector">카메라 연결</string>
+    <string name="menu_admin_page">관리자 페이지</string>
+    <string name="menu_camera">카메라 촬영</string>
+</resources>
